@@ -1,5 +1,5 @@
 {
-    "enable_docstrings_tooltip": false,
+    "merge_signatures_and_doc": false,
     "anaconda_linter_mark_style": "squiggly_underline",
     "anaconda_linter_underlines": false,
 }
