@@ -1,0 +1,5 @@
+{
+    "enable_docstrings_tooltip": false,
+    "anaconda_linter_mark_style": "squiggly_underline",
+    "anaconda_linter_underlines": false,
+}
