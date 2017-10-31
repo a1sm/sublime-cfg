@@ -118,7 +118,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4c725</string>
+				<string>#3465a4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -128,8 +128,10 @@
 			<string>storage</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#ba8baf</string>
+				<string>#a40000</string>
 			</dict>
 		</dict>
 	    <dict>
@@ -324,7 +326,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4c725</string>
+				<string>#3465a4</string>
 			</dict>
 		</dict>
 		<dict>
