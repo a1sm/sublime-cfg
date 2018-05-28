@@ -1,0 +1,8 @@
+{
+    "include_dirs" : [
+                        "/usr/include/c++/5.4.0/",
+                        "/usr/lib/clang/5.0",
+                        "/usr/include",
+                        ],
+    "std_flag" : "-std=c++14",
+}

@@ -1,0 +1,5 @@
+{
+    "cpp_flags" : [ "-std=c++14" ],
+    "objective_cpp_flags" : [ "-std=c++14" ],      "use_libclang" : true,
+    "use_libclang" : true,
+}
